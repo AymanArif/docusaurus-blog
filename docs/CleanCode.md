@@ -17,12 +17,11 @@ sidebar_label: Clean Code
 **Part 3:** List of heuristics to detect smelly code learnt from part 1.
 
 
-
 :::caution
 
 Just knowing everything is not enough. Use them daily. Write and review lots of code. Review your own code by senior engineers and learn from your mistakes. Iteration is key.
-
 :::
+
 
 
 # Chapter 1 : Introduction to Clean Code
@@ -108,7 +107,7 @@ Example:
 6. Use searchable names. 
 
 
-::: caution 
+:::caution 
 
 DO NOT USE SINGLE CHARACTERS.
 
@@ -119,7 +118,7 @@ DO NOT USE SINGLE CHARACTERS.
 7. DO NOT ENCODE TYPES IN NAMES
 
 
-::: caution 
+:::caution 
 
 Generics could change the type of variables. 
 
@@ -224,6 +223,15 @@ Clean tests should follow **F.I.R.S.T** principle.
 
 
 # Chapter 16: Refactoring `SerialDate`
+
+
+:::note
+
+Food for thought: Use convention document during review or new hire training.
+
+:::
+
+
  
 # Chapter 17: Smells and heuristics
 

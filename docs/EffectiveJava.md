@@ -7,11 +7,42 @@ sidebar_label: Effective Java
 
 ## 💥 Creating and Destroying Objects
 
-### Item  1 
-### Item  2
+### Item  1: Static Factory Methods
+
+
+|Item Referenced|Item Name|Information|
+|--|--|--|
+|||
+
+
+
+Patterns
+- Flyweight Pattern
+
+|Variants|Examples|
+|--|--|
+|Example|DI Frameworks (Spring, Guice)|
+|Pattern|Bridge Pattern|
+
+
+|Pro|Con|
+|--|--|
+|Encourages Composition over Inheritance||
+
+
+### Item  2: Builder Pattern
+
+Patterns
+- Builder Pattern
+
+
 ### Item  3
 ### Item  4
 ### Item  5
+
+Patterns
+- Factory Method Pattern
+
 ### Item  6
 ### Item  7
 ### Item  8
@@ -26,7 +57,7 @@ sidebar_label: Effective Java
 ### Item 14
 
 
-## Classes And Interfaces
+## 🏗️ Classes And Interfaces
 ### Item 15
 ### Item 16
 ### Item 17
@@ -49,7 +80,7 @@ sidebar_label: Effective Java
 ### Item 32
 ### Item 33
 
-## Enums and Annotations
+## 📧 Enums and Annotations
 ### Item 34
 ### Item 35
 ### Item 36
@@ -60,8 +91,9 @@ sidebar_label: Effective Java
 ### Item 41
 
 
-## Lamdas and Streams
 
+	
+## Lambdas and Streams
 
 ### Item 42
 
@@ -72,7 +104,7 @@ sidebar_label: Effective Java
 ### Item 46
 ### Item 47
 
-## Methds
+## Methods
 ### Item 48
 ### Item 49
 ### Item 50
@@ -109,7 +141,7 @@ sidebar_label: Effective Java
 ### Item 77
 
 
-## Concurrency
+## 🧵 Concurrency
 
 
 ### Item 78
