@@ -52,5 +52,7 @@
     "/docs/effectivejava": "someSidebar",
     "/docs/mdx": "someSidebar",
     "/docs/rust": "someSidebar"
-  }
+  },
+  "isHomePage": true,
+  "homePagePath": "/docs/doc1"
 }

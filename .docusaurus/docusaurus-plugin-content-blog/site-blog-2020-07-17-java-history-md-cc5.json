@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/JavaHistory",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2020-07-17-JavaHistory.md",
+  "source": "@site/blog/2020-07-17-JavaHistory.md",
+  "description": "25 Things You Didn't Know About Java",
+  "date": "2020-07-17T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "java",
+      "permalink": "/blog/tags/java"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "title": "25 Things You Didn't Know About Java",
+  "readingTime": 0.375,
+  "truncated": true,
+  "nextItem": {
+    "title": "Java",
+    "permalink": "/blog/Java"
+  }
+}

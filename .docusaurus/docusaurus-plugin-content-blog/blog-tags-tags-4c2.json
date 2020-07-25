@@ -1,10 +1,10 @@
 {
-  "hola": {
+  "java": {
     "allTagsPath": "/blog/tags",
-    "slug": "hola",
-    "name": "hola",
-    "count": 3,
-    "permalink": "/blog/tags/hola"
+    "slug": "java",
+    "name": "java",
+    "count": 1,
+    "permalink": "/blog/tags/java"
   },
   "docusaurus": {
     "allTagsPath": "/blog/tags",
@@ -12,5 +12,12 @@
     "name": "docusaurus",
     "count": 3,
     "permalink": "/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/blog/tags",
+    "slug": "hola",
+    "name": "hola",
+    "count": 2,
+    "permalink": "/blog/tags/hola"
   }
 }

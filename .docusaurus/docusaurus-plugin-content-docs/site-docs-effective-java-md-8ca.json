@@ -1,0 +1,18 @@
+{
+  "id": "effectivejava",
+  "title": "Effective Java",
+  "description": "💥 Creating and Destroying Objects",
+  "source": "@site/docs/EffectiveJava.md",
+  "permalink": "/docs/effectivejava",
+  "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/docs/EffectiveJava.md",
+  "sidebar_label": "Effective Java",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "JS - Module Bundlers",
+    "permalink": "/docs/doc2"
+  },
+  "next": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  }
+}

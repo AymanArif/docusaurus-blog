@@ -35,8 +35,8 @@ export default [
   
 },
 {
-  path: '/blog/NodeJS',
-  component: ComponentCreator('/blog/NodeJS'),
+  path: '/blog/JavaHistory',
+  component: ComponentCreator('/blog/JavaHistory'),
   exact: true,
   
 },
@@ -55,6 +55,12 @@ export default [
 {
   path: '/blog/tags/hola',
   component: ComponentCreator('/blog/tags/hola'),
+  exact: true,
+  
+},
+{
+  path: '/blog/tags/java',
+  component: ComponentCreator('/blog/tags/java'),
   exact: true,
   
 },
@@ -90,6 +96,12 @@ export default [
 {
   path: '/docs/doc3',
   component: ComponentCreator('/docs/doc3'),
+  exact: true,
+  
+},
+{
+  path: '/docs/effectivejava',
+  component: ComponentCreator('/docs/effectivejava'),
   exact: true,
   
 },

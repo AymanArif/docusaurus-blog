@@ -7,8 +7,8 @@
   "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/docs/mdx.md",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Document Number 2",
-    "permalink": "/docs/doc2"
+    "title": "Effective Java",
+    "permalink": "/docs/effectivejava"
   },
   "next": {
     "title": "Introducing RUST",

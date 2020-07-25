@@ -119,7 +119,7 @@ sidebar_label: Introducing RUST
 
 ### **ADT + Pattern Matching**
 
-In enum, you have to match every enum key. If not, compiler gives error. 
+In enum, you have to match every enum key. If not, compiler gives error. This helps you to know if your enums are used somewhere in your codebase. 
 
 ### **Tooling**
 
@@ -244,7 +244,7 @@ Enum can have union of types; unlike Java.
 
 ## 👎 Rust Drawbacks
 
-## No Runtime
+### No Runtime
 
 1. No runtime reflection
 
@@ -262,11 +262,11 @@ Enum can have union of types; unlike Java.
 1. Borrow checker (handling references to data)
     1. Need to explicitly handle references. We need to make sure that the references do not OUTLIVE the data they refer to; if not the ***compiler*** throws an error.
 
-## Ecosystem
+### Ecosystem
 
 1. Young
 2. Small (But growing quickly)
 
-## Windows
+### Windows
 
 1. BAD SUPPORT FOR WINDOWS
