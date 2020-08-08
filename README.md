@@ -2,6 +2,7 @@
   Made with :love_letter: using 
 </h2>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b635725b-209a-44cd-9170-5147f92df740/deploy-status)](https://app.netlify.com/sites/ayman-blog/deploys)
 
 <p align="center">
 
