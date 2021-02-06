@@ -1,36 +1,36 @@
 {
   "/": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99"
+    "component": "component---site-src-pages-index-jsece-a18"
   },
   "/SocialFollow": {
-    "component": "component---site-src-pages-social-follow-js-5-da-815"
+    "component": "component---site-src-pages-social-follow-jsabd-d34"
   },
   "/blog": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "items": [
       {
-        "content": "content---blogce-4-44c"
+        "content": "content---blog-71-f-caf"
       },
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       },
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
     "metadata": "metadata---blogbbb-5f9"
   },
   "/blog/Golang": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "content": "content---blog-golangbdd-d0c"
+    "content": "content---blog-golangaed-416"
   },
   "/blog/Java": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "content": "content---blog-javad-61-869"
+    "content": "content---blog-java-843-2ea"
   },
   "/blog/JavaHistory": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "content": "content---blog-java-historycc-5-7f2"
+    "content": "content---blog-java-history-1-e-6-99a"
   },
   "/blog/tags": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
@@ -40,13 +40,13 @@
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blogce-4-44c"
+        "content": "content---blog-71-f-caf"
       },
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       },
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
     "metadata": "metadata---blog-tags-docusaurus-6-ca-f43"
@@ -55,10 +55,10 @@
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blog-357-22b"
+        "content": "content---blogc-0-a-22b"
       },
       {
-        "content": "content---blog-8-e-9-35c"
+        "content": "content---blog-273-7f3"
       }
     ],
     "metadata": "metadata---blog-tags-hola-31-d-e2f"
@@ -67,18 +67,18 @@
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "items": [
       {
-        "content": "content---blogce-4-44c"
+        "content": "content---blog-71-f-caf"
       }
     ],
     "metadata": "metadata---blog-tags-javaf-0-e-a98"
   },
   "/docs": {
     "component": "component---theme-doc-page-1-be-9be",
-    "docsMetadata": "docsMetadata---docsb-9-e-988",
-    "content": "content---docsf-2-a-b70"
+    "docsMetadata": "docsMetadata---docsc-37-4a7",
+    "content": "content---docse-73-a2c"
   },
   "/search": {
-    "component": "component---home-ayman-desktop-blog-docusaurus-blog-ayman-blog-node-modules-docusaurus-theme-search-algolia-src-pages-search-index-jsffb-1ce"
+    "component": "component---d-coding-docusaurus-blog-node-modules-docusaurus-theme-search-algolia-src-pages-search-index-jsebe-24e"
   },
   "/docs/:route": {
     "component": "component---theme-doc-page-1-be-9be",
@@ -86,26 +86,26 @@
   },
   "/docs/doc1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docsf-2-a-b70"
+    "content": "content---docse-73-a2c"
   },
   "/docs/doc2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-doc-2-df-3-eaa"
+    "content": "content---docs-doc-2991-1ba"
   },
   "/docs/doc3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-doc-3616-40c"
+    "content": "content---docs-doc-3225-2eb"
   },
   "/docs/effectivejava": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-effectivejava-8-ca-0d5"
+    "content": "content---docs-effectivejava-701-416"
   },
   "/docs/mdx": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-mdxce-3-7d1"
+    "content": "content---docs-mdx-45-a-26c"
   },
   "/docs/rust": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-rust-184-58f"
+    "content": "content---docs-rusta-39-11b"
   }
 }

@@ -84,7 +84,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2020 This blog is with Docusaurus and Netlify"
+      "copyright": "Copyright © 2021 This blog is with Docusaurus and Netlify"
     }
   },
   "title": "Ayman Blog",
@@ -100,7 +100,7 @@ export default {
       {
         "docs": {
           "homePageId": "doc1",
-          "sidebarPath": "/home/ayman/Desktop/Blog/docusaurus-blog-ayman-blog/sidebars.js",
+          "sidebarPath": "D:\\Coding\\docusaurus-blog\\sidebars.js",
           "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/"
         },
         "blog": {
@@ -108,7 +108,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/ayman/Desktop/Blog/docusaurus-blog-ayman-blog/src/css/custom.css"
+          "customCss": "D:\\Coding\\docusaurus-blog\\src\\css\\custom.css"
         }
       }
     ]

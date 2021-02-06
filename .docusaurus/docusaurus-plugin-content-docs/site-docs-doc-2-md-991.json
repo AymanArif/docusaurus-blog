@@ -1,0 +1,17 @@
+{
+  "id": "doc2",
+  "title": "JS - Module Bundlers",
+  "description": "Tree shaking",
+  "source": "@site/docs\\doc2.md",
+  "permalink": "/docs/doc2",
+  "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/docs/doc2.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Clean Code",
+    "permalink": "/docs/doc1"
+  },
+  "next": {
+    "title": "Effective Java",
+    "permalink": "/docs/effectivejava"
+  }
+}

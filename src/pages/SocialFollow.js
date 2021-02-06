@@ -19,18 +19,18 @@ export default function SocialFollow() {
 
       <div className="social-leaf">
       <a
-        href="https://github.com/AymanArif"
+        href="https://github.com/aymanapatel"
         className="github social"
       >
         <FontAwesomeIcon icon={faGithub} size="2x" />
       </a>
       <a
-  href="https://www.linkedin.com/in/ayman-arif-patel-300683127/"
+  href="https://www.linkedin.com/in/aymanapatel"
   className="linkedin social"
 >
   <FontAwesomeIcon icon={faLinkedin} size="2x" />
 </a>
-<a href="https://www.twitter.com/aymanace97" className="twitter social">
+<a href="https://www.twitter.com/aymanapatel" className="twitter social">
   <FontAwesomeIcon icon={faTwitter} size="2x" />
 </a>
 <a
@@ -40,7 +40,7 @@ export default function SocialFollow() {
   <FontAwesomeIcon icon={faMedium} size="2x" />
 </a>
 <a
-  href="https://gitlab.com/AymanArif"
+  href="https://gitlab.com/aymanapatel"
   className="gitlab social"
 >
   <FontAwesomeIcon icon={faGitlab} size="2x" />
