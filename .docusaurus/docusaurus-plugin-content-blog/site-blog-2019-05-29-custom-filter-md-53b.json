@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/CustomFilter",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-CustomFilter.md",
+  "source": "@site/blog\\2019-05-29-CustomFilter.md",
+  "description": "|Language|Topic|Description|Links|",
+  "date": "2019-05-29T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "java",
+      "permalink": "/blog/tags/java"
+    },
+    {
+      "label": "filter",
+      "permalink": "/blog/tags/filter"
+    }
+  ],
+  "title": "Creating Custom Filter in Java",
+  "readingTime": 0.64,
+  "truncated": true,
+  "prevItem": {
+    "title": "25 Things You Didn't Know About Java",
+    "permalink": "/blog/JavaHistory"
+  },
+  "nextItem": {
+    "title": "Dealing with Keys in Linux",
+    "permalink": "/blog/Keys_Linux"
+  }
+}

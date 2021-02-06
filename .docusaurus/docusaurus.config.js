@@ -23,7 +23,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/AymanArif",
+          "href": "https://github.com/aymanapatel",
           "position": "right",
           "className": "header-github-link",
           "alt": "Hello",
@@ -54,11 +54,11 @@ export default {
           "items": [
             {
               "label": "LinkedIn",
-              "href": "https://www.linkedin.com/in/ayman-arif-patel-300683127/"
+              "href": "https://www.linkedin.com/in/aymanapatel/"
             },
             {
               "label": "Gitlab",
-              "href": "https://github.com/AymanArif"
+              "href": "https://github.com/aymanapatel"
             },
             {
               "label": "Medium",
@@ -71,15 +71,15 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/AymanArif"
+              "href": "https://github.com/aymanapatel"
             },
             {
               "label": "Gitlab",
-              "href": "https://github.com/AymanArif"
+              "href": "https://github.com/aymanapatel"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/@aymanace97"
+              "href": "https://twitter.com/aymanapatel"
             }
           ]
         }
@@ -101,7 +101,7 @@ export default {
         "docs": {
           "homePageId": "doc1",
           "sidebarPath": "D:\\Coding\\docusaurus-blog\\sidebars.js",
-          "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/"
+          "editUrl": "https://github.com/aymanapatel/docusaurus-blog/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,

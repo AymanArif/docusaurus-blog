@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/Keys_Linux",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-LinuxSecurity.md",
+  "source": "@site/blog\\2019-05-28-LinuxSecurity.md",
+  "description": "|Language|Topic|Description|Links|",
+  "date": "2019-05-28T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/blog/tags/linux"
+    },
+    {
+      "label": "SSL",
+      "permalink": "/blog/tags/ssl"
+    },
+    {
+      "label": "Cryptography",
+      "permalink": "/blog/tags/cryptography"
+    }
+  ],
+  "title": "Dealing with Keys in Linux",
+  "readingTime": 0.77,
+  "truncated": true,
+  "prevItem": {
+    "title": "Creating Custom Filter in Java",
+    "permalink": "/blog/CustomFilter"
+  }
+}

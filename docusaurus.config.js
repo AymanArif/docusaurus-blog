@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/AymanArif',
+          href: 'https://github.com/aymanapatel',
           position: 'right',
           className: 'header-github-link',
           alt: 'Hello',
@@ -54,11 +54,11 @@ module.exports = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/ayman-arif-patel-300683127/',
+              href: 'https://www.linkedin.com/in/aymanapatel/',
             },
             {
               label: 'Gitlab',
-              href: 'https://github.com/AymanArif',
+              href: 'https://github.com/aymanapatel',
             },
             {
               label: 'Medium',
@@ -71,15 +71,15 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/AymanArif',
+              href: 'https://github.com/aymanapatel',
             },
             {
               label: 'Gitlab',
-              href: 'https://github.com/AymanArif',
+              href: 'https://github.com/aymanapatel',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/@aymanace97',
+              href: 'https://twitter.com/aymanapatel',
             },
           ],
         },
@@ -97,7 +97,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/AymanArif/docusaurus-blog/edit/master/website/',
+            'https://github.com/aymanapatel/docusaurus-blog/edit/master/website/',
         },
         blog: {
           showReadingTime: true,

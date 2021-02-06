@@ -33,16 +33,6 @@ const features = [
       </>
     ),
   },
-    {
-    title: <>Rust Blog</>,
-    square: true,
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSilcd6W5S8Getdj7KxMPoVwoL7gq7Qry71QQ&usqp=CAU',
-    description: (
-      <>
-        Rust, the most loved language!
-      </>
-    ),
-  },
   {
     title: <>Node JS Blog</>,
     square: true,

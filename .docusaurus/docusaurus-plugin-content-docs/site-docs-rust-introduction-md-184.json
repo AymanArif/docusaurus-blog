@@ -4,7 +4,7 @@
   "description": "Google slides link",
   "source": "@site/docs/RUSTIntroduction.md",
   "permalink": "/docs/rust",
-  "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/docs/RUSTIntroduction.md",
+  "editUrl": "https://github.com/aymanapatel/docusaurus-blog/edit/master/website/docs/RUSTIntroduction.md",
   "sidebar_label": "Introducing RUST",
   "sidebar": "someSidebar",
   "previous": {

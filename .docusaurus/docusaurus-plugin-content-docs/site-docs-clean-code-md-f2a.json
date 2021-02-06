@@ -4,7 +4,7 @@
   "description": "Books contents",
   "source": "@site/docs/CleanCode.md",
   "permalink": "/docs/doc1",
-  "editUrl": "https://github.com/AymanArif/docusaurus-blog/edit/master/website/docs/CleanCode.md",
+  "editUrl": "https://github.com/aymanapatel/docusaurus-blog/edit/master/website/docs/CleanCode.md",
   "sidebar_label": "Clean Code",
   "sidebar": "someSidebar",
   "next": {

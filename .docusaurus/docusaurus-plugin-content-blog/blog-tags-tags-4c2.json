@@ -3,21 +3,42 @@
     "allTagsPath": "/blog/tags",
     "slug": "java",
     "name": "java",
-    "count": 1,
+    "count": 2,
     "permalink": "/blog/tags/java"
   },
   "docusaurus": {
     "allTagsPath": "/blog/tags",
     "slug": "docusaurus",
     "name": "docusaurus",
-    "count": 3,
+    "count": 1,
     "permalink": "/blog/tags/docusaurus"
   },
-  "hola": {
+  "filter": {
     "allTagsPath": "/blog/tags",
-    "slug": "hola",
-    "name": "hola",
-    "count": 2,
-    "permalink": "/blog/tags/hola"
+    "slug": "filter",
+    "name": "filter",
+    "count": 1,
+    "permalink": "/blog/tags/filter"
+  },
+  "linux": {
+    "allTagsPath": "/blog/tags",
+    "slug": "linux",
+    "name": "linux",
+    "count": 1,
+    "permalink": "/blog/tags/linux"
+  },
+  "ssl": {
+    "allTagsPath": "/blog/tags",
+    "slug": "ssl",
+    "name": "ssl",
+    "count": 1,
+    "permalink": "/blog/tags/ssl"
+  },
+  "cryptography": {
+    "allTagsPath": "/blog/tags",
+    "slug": "cryptography",
+    "name": "cryptography",
+    "count": 1,
+    "permalink": "/blog/tags/cryptography"
   }
 }

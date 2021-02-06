@@ -23,14 +23,8 @@ export default [
   
 },
 {
-  path: '/blog/Golang',
-  component: ComponentCreator('/blog/Golang'),
-  exact: true,
-  
-},
-{
-  path: '/blog/Java',
-  component: ComponentCreator('/blog/Java'),
+  path: '/blog/CustomFilter',
+  component: ComponentCreator('/blog/CustomFilter'),
   exact: true,
   
 },
@@ -41,8 +35,20 @@ export default [
   
 },
 {
+  path: '/blog/Keys_Linux',
+  component: ComponentCreator('/blog/Keys_Linux'),
+  exact: true,
+  
+},
+{
   path: '/blog/tags',
   component: ComponentCreator('/blog/tags'),
+  exact: true,
+  
+},
+{
+  path: '/blog/tags/cryptography',
+  component: ComponentCreator('/blog/tags/cryptography'),
   exact: true,
   
 },
@@ -53,14 +59,26 @@ export default [
   
 },
 {
-  path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola'),
+  path: '/blog/tags/filter',
+  component: ComponentCreator('/blog/tags/filter'),
   exact: true,
   
 },
 {
   path: '/blog/tags/java',
   component: ComponentCreator('/blog/tags/java'),
+  exact: true,
+  
+},
+{
+  path: '/blog/tags/linux',
+  component: ComponentCreator('/blog/tags/linux'),
+  exact: true,
+  
+},
+{
+  path: '/blog/tags/ssl',
+  component: ComponentCreator('/blog/tags/ssl'),
   exact: true,
   
 },

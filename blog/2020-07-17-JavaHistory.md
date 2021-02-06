@@ -3,8 +3,8 @@ id: JavaHistory
 title: 25 Things You Didn't Know About Java
 author: Ayman
 author_title: Software Engineer
-author_url: https://github.com/AymanArif
-author_image_url: https://pbs.twimg.com/profile_images/1158072032338124801/z7XafZpg_400x400.jpg
+author_url: https://github.com/aymanapatel
+author_image_url: https://avatars.githubusercontent.com/u/13992816?s=460&u=9944febc50832840a7542bfdaffdedbd5eb87848&v=4
 tags: [java, docusaurus]
 ---
 
